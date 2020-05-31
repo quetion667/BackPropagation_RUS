@@ -1,0 +1,33 @@
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe.config
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\bin\Debug\Backpropagation.pdb
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csprojAssemblyReference.cache
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Main.resources
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Start.resources
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Properties.Resources.resources
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.exe
+C:\Users\Al\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.pdb
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe.config
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\bin\Debug\Backpropagation.exe
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\bin\Debug\Backpropagation.pdb
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csprojAssemblyReference.cache
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Main.resources
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Start.resources
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.Properties.Resources.resources
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.exe
+G:\Users\antro\Documents\Винда - 7\Documents\Проекты\Backpropagation-algorithm-master\Backpropagation\Backpropagation\obj\Debug\Backpropagation.pdb
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\bin\Debug\Backpropagation.exe.config
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\bin\Debug\Backpropagation.exe
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\bin\Debug\Backpropagation.pdb
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.csprojAssemblyReference.cache
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.Main.resources
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.Start.resources
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.Properties.Resources.resources
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.csproj.GenerateResource.cache
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.csproj.CoreCompileInputs.cache
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.exe
+C:\Users\Sasha\Documents\Visual Studio 2019\Projects\NN_Back_Propagation\Backpropagation\obj\Debug\Backpropagation.pdb
